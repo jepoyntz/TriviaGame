@@ -1,0 +1,24 @@
+body {
+	/*background-color: red;*/
+}
+
+#main {
+	text-align: center;
+	background-color: white;
+}
+
+.sidenav {
+	background-color: red;
+	height: 500px;
+}
+
+
+
+.topBottom {
+	height: 40px;
+	background-color: red;
+}
+
+#footer {
+	height:auto;
+}
